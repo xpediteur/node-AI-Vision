@@ -27,7 +27,7 @@ const users = new sdk.Users(client);
 
 const { Configuration, OpenAIApi } = require("openai");
 const configuration = new Configuration({
-  apiKey: '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'
+  apiKey: 'xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx'
 });
 const openai = new OpenAIApi(configuration);
 
